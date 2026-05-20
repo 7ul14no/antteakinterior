@@ -1,0 +1,6 @@
+{
+  "name": "Antteak Interior",
+  "description": "An elegant, minimalist landing page for Antteak Interior, a high-end teak furniture design studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
